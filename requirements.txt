@@ -1,0 +1,9 @@
+# Install everything with:  pip install -r requirements.txt
+
+# Official backtester for Prosperity 4 (local testing without uploading)
+prosperity4btest
+
+# These are also available inside the IMC sandbox — safe to use in trader.py
+jsonpickle
+numpy
+pandas
